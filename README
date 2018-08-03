@@ -1,0 +1,8 @@
+Features:
+1. Make the world grayscale temporarily (using a button or timed)
+2. Textured walls
+3. Make the tiles flash periodically
+4. An octahedral infinite tunnel.
+5. Stationary obstacles and in later levels rotating/moving ones
+6. Switching the bottom side. Doing so should change the gravity too. Gravity is always
+downwards. (see the game link)
